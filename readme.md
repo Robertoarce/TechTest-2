@@ -26,17 +26,17 @@ This README provides instructions for setting up a Python environment using Mini
 After installing Miniconda, create a new environment with Python 3.11.9:
 
 ```
-conda create -n myenv python=3.11.9
+conda create -n MyWayEnviroment python=3.11.9
 ```
 
-Replace `myenv` with your desired environment name.
+Replace `MyWayEnviroment` with your desired environment name.
 
 ## 3. Activate the Environment
 
 Activate the newly created environment:
 
 ```
-conda activate myenv
+conda activate MyWayEnviroment
 ```
 
 ## 4. Install Requirements
@@ -58,14 +58,3 @@ python --version
 pip list
 ```
 
-## 6. Deactivate the Environment
-
-When you're done working on the project, you can deactivate the environment:
-
-```
-conda deactivate
-```
-
-## Troubleshooting
-
-If you encounter any issues during the setup process, please refer to the [Miniconda documentation](https://docs.conda.io/en/latest/miniconda.html) or open an issue in this project's repository.
