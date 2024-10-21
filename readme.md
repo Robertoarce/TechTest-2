@@ -4,7 +4,10 @@
 - About the project file
 - Project Setup with Miniconda
 
-## - Introduction
+---
+---
+
+## Introduction
 
 The repository counts with the following files:
 
@@ -14,7 +17,7 @@ The repository counts with the following files:
 1. `requirements.txt` This is the file with all dependencies for installation. (use pip install for this).
 1. `transactions.csv` This is the raw data file.
 
-## - About the project file
+## About the project file
 
 The project file (`report.ipynb`) is a jupyter notebook which is divided into 3 parts:
 
@@ -22,7 +25,7 @@ The project file (`report.ipynb`) is a jupyter notebook which is divided into 3 
 1. **Data Assessing:** The focus is to familiarize with the data and assess the state of data.
 1. **Questions:** This is were we solve the questions given by the challenge.
 
-## - Project Setup with Miniconda
+## Project Setup with Miniconda
 
 This README provides instructions for setting up a Python environment using Miniconda, creating a virtual environment with Python 3.11.9, and installing the required packages for this project.
 
